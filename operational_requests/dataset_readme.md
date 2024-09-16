@@ -1,4 +1,4 @@
-## this data is generated purely by LLM
+## This data is generated purely by LLM
 
 ### Definition
 CSV file with 100 records. Header = 'request'
